@@ -1,2 +1,2 @@
 룰루;
-let me = "techit frontend developer school 12th";
+let me = "태킷프론트엔드 개발자스쿨 12기";
